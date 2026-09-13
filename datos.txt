@@ -1,0 +1,783 @@
+[MISION]
+Nuestra misión es ofrecer soluciones tecnológicas innovadoras y accesibles para todos los usuarios.
+
+[VISION]
+Nuestra visión es ser la plataforma líder a nivel regional en el desarrollo de software intuitivo para 2030.
+
+==================================================
+SERVICIOS Y CONTACTOS UCSS - GONZALES PRADA
+==================================================
+
+[SERVICIO DE TOPICO]
+Correo: servicio_medico@ucss.edu.pe
+Ubicacion: P1, Piso 1
+Horario: Lunes a Sabado: 7:00 am. a 10:30 pm.
+
+[SERVICIO PSICOPEDAGOGICO]
+Correo: consultapsicologia_lima@ucss.edu.pe
+Ubicacion: P1, Piso 4
+Horario:
+- De Lunes a Miercoles: 8:00 am. - 5:00 pm.
+- Jueves y Viernes: 8:00 am. - 1:00 pm. (Virtual)
+- Sabados: 8:00 am. a 1:00 pm. (Virtual)
+
+[DEFENSORIA UNIVERSITARIA]
+Correo: defensoriauniversitaria@ucss.edu.pe
+Ubicacion: P1, Piso 4
+Horario: De Martes y Jueves: 10:00 am. a 11:45 am.
+
+[LACTARIO]
+Correo: bienestaruniversitario@ucss.edu.pe
+Ubicacion: P1, Piso 1
+
+[TUTORIA]
+Correo: tutoria_generales@ucss.edu.pe
+Ubicacion: P4, Piso 4
+Horario:
+- Lunes a viernes: 8:00 am. a 6:00 pm.
+- Lun-Mier-Vier: 10:00 am. a 8:00 pm.
+- Martes y Jueves: 8:00 am. a 6:00 pm.
+
+[ASUNTOS ACADEMICOS]
+Ubicacion: P4, Piso 1 (Via zoom)
+Horario:
+- Lunes a viernes: 8:30 am. a 8:00 pm.
+- Sabados: 8:30 am. a 12:30 pm.
+
+[BECAS Y AYUDAS ECONOMICAS]
+Correo: obae@ucss.edu.pe
+Ubicacion: P4, Piso 1
+Horario:
+- Lunes a viernes: 8:30 am. a 6:30 pm.
+- Sabado: 8:30 am. a 1:30 pm.
+
+[PASTORAL UNIVERSITARIA]
+Correo: pastoral@ucss.edu.pe
+Ubicacion: P4 - Taller 304
+Horario: Lunes a viernes: 8:30 am. a 5:30 pm.
+Misas en Capilla:
+- Lunes a jueves: 8:00 am.
+- Viernes: 5:30 pm. (P2, Piso 204)
+
+[BIBLIOTECA]
+Nombre: Biblioteca especializada "Andres Aziani"
+Ubicacion: P4, piso 1
+Horario:
+- Lunes a viernes: 9:00 am. a 9:00 pm.
+- Sabados: 9:00 am. a 1:00 pm.
+
+[FACULTAD DE CIENCIAS DE LA SALUD]
+Correo: tramitesalud@ucss.edu.pe
+Telefono: 940 520 775
+Ubicacion: P1, Piso 3
+
+[FACULTAD DE INGENIERIA]
+Correo: tramitesfi@ucss.edu.pe
+Telefono: 986 747 531
+Ubicacion: P1, Piso 4
+
+[FACULTAD DE CIENCIAS ECONOMICAS Y COMERCIALES]
+Correo: secretaria_fcec@ucss.edu.pe
+Telefono: 989 569 270
+Ubicacion: P1, Piso 4
+
+[FACULTAD DE DERECHO Y CIENCIAS POLITICAS]
+Correo: facdecp@ucss.edu.pe
+Telefono: 989 699 166
+Ubicacion: P1, Piso 4
+
+[FACULTAD DE CIENCIAS AGRARIAS Y AMBIENTALES]
+Correo: secretaria_fcaa@ucss.edu.pe
+Telefono: 987 513 071
+Ubicacion: P2, Piso 5
+
+[FACULTAD DE CIENCIAS DE LA EDUCACION Y HUMANIDADES]
+Correo: secretaria_fced@ucss.edu.pe
+Telefono: 989 251 459
+Ubicacion: P3, Piso 5
+
+[DPTO DE ESTUDIOS GENERALES]
+Correo: estudiosgenerales@ucss.edu.pe
+Ubicacion: P4, Piso 4
+
+==================================================
+RESOLUCION DE LICENCIAMIENTO INSTITUCIONAL (SUNEDU)
+==================================================
+
+[LICENCIA INSTITUCIONAL UCSS]
+Resolucion: N° 117-2018-SUNEDU/CD
+Fecha de emision: 12 de septiembre de 2018
+Vigencia: 6 años
+Estado: Otorgada por SUNEDU para ofrecer el servicio educativo superior universitario.
+
+[SEDES Y FILIALES AUTORIZADAS]
+Sede Central: Lima (4 locales)
+Filial Huaura: 2 locales (Vegueta y Huacho)
+Filial Atalaya: 1 local (Raimondi)
+Filial Morropon: 3 locales (Chulucanas)
+Filial Rioja: 1 local (Nueva Cajamarca)
+Filial Tarma: 1 local (Tarma)
+
+[OFERTA ACADEMICA RECONOCIDA]
+Total programas autorizados: 46 programas
+- Pregrado: 30 programas conducentes al grado de bachiller
+- Posgrado: 10 programas de maestria
+- Segunda Especialidad: 6 programas
+
+[PROGRAMAS DESISTIDOS]
+Total programas cancelados/retirados: 15 programas
+- Pregrado: 3 programas (Educacion Secundaria: Lengua y Literatura, Teologia, Complementacion Universitaria)
+- Maestrías: 8 programas
+- Doctorados: 4 programas (Gestion Publica, Filosofia, Educacion, Administracion)
+
+[REQUERIMIENTOS Y RECOMENDACIONES SUNEDU]
+Requerimientos:
+- Implementacion y seguimiento del Sistema de Gestion de la Calidad (SGC).
+- Estandarizacion de seleccion, evaluacion y ratificacion docente en sede y filiales.
+- Reporte de docentes en proceso de adecuacion para obtencion de grados academicos.
+- Fortalecimiento de la estructura y desarrollo de investigacion en todas las facultades.
+- Plan de equipamiento homologado para laboratorios de Ingenieria Civil.
+
+==================================================
+FICHA TECNICA Y DATOS INSTITUCIONALES UCSS
+==================================================
+
+[ASPECTOS INSTITUCIONALES]
+Universidad: Universidad Catolica Sedes Sapientiae (UCSS)
+Gestion: Privada - Asociativa (Bajo el patrocinio de la Diocesis de Carabayllo)
+Fecha de Creacion: 31 de mayo de 1998
+Fecha de Licenciamiento: 13 de setiembre de 2018
+Resolucion de Licenciamiento: N° 117-2018-SUNEDU/CD
+Sitio Web: https://www.ucss.edu.pe
+Direccion Sede Los Olivos: Lt. s/n (esq. Calle Constelaciones y Av. Sol de Oro), Mz. U, Urb. Sol de Oro, 1ra. Etapa, Los Olivos, Lima.
+
+[POBLACION ESTUDIANTIL Y DISTRIBUCION (2018-I)]
+Total Estudiantes: 9436
+Por Nivel de Enseñanza:
+- Pregrado: 9181 estudiantes
+- Posgrado: 255 estudiantes
+
+Distribucion por Sedes y Filiales:
+- Lima: 5510 estudiantes
+- Rioja: 1696 estudiantes
+- Tarma: 712 estudiantes
+- Atalaya: 656 estudiantes
+- Morropon (3 locales): 549 estudiantes
+- Huaura (2 locales): 313 estudiantes
+
+[PROGRAMAS ACADEMICOS]
+Total Programas: 46
+- Pregrado: 30 programas
+- Maestria: 10 programas
+- Segunda Especialidad: 6 programas
+
+[SERVICIOS COMPLEMENTARIOS Y BIENESTAR]
+Servicios Disponibles:
+- Topico de salud
+- Servicios culturales
+- Disciplinas deportivas
+- Servicio social
+Beneficios y Becas: Subvenciones de estudio, alojamiento, alimentacion y medicinas. En el periodo 2018-I se otorgo alrededor de 2.5 millones de soles en becas.
+Enfoque Intercultural: Filial Atalaya ("Nopoki" - "Estoy aqui" en asháninka) para la formacion de jovenes de pueblos originarios amazonicos.
+
+[INFRAESTRUCTURA]
+Locales Totales: 12 locales (incluyendo sus 8 filiales)
+Instalaciones:
+- Aulas: 135
+- Laboratorios: 42 (incluye 3 laboratorios de investigacion)
+- Talleres: 22
+- Ambientes para docentes: 54
+
+[PLANA DOCENTE (2018-I)]
+Total Docentes: 500
+Por Régimen de Dedicación:
+- Tiempo Completo: 168 docentes (34%)
+- Tiempo Parcial: 330 docentes
+- Dedicación Exclusiva: 2 docentes
+
+Por Grado Académico:
+- Bachiller: 248 docentes
+- Maestro: 218 docentes
+- Doctor: 34 docentes
+
+[INVESTIGACION Y RECURSOS]
+Presupuesto Investigacion (2018): S/ 1,539,175
+Lineas de Investigacion: 52
+Proyectos Registrados (2015-2018): 114
+Proyectos Publicados: 46 (Scopus: 8, Web of Science: 16, Latindex: 10, Scielo: 7, Revistas UCSS: 5)
+Docentes en DINA: 42
+Docentes en REGINA: 1
+Biblioteca: 4171 libros en acervo bibliografico
+
+[AUTORIDADES UCSS]
+S.E.R. Mons. Neri Menor Vargas, OFM - Gran Canciller
+Rvdo. P. Dr. César Antonio Buendía Romero - Vice Canciller
+Dr. Gian Battista Fausto Bolis - Rector
+Mtra. Edith Betty Alfaro Palacios de Huaita - Vicerrectora Académica (e.)
+Mtro. José Enrique Guadalupe Aguilar Muñoz - Vicerrector Administrativo (e.)
+Mtra. Sara Isabel Mazekina Oshiro - Decana (e.) de la Facultad de Ciencias Económicas y Comerciales
+Mag. Bertha Julia Terrazas Duhaut de Orizola - Decana (e.) de la Facultad de Ciencias de la Educación y Humanidades
+Mag. Sofía Coz Contreras - Decana (e.) de la Facultad de Ciencias de la Salud
+Mtra. Paola Analí Verónica Arellano Tume - Decana (e.) de la Facultad de Ingeniería
+Ing. Juan Ignacio Pastén Monárdez - Decano (e.) de la Facultad de Ciencias Agrarias y Ambientales
+Mtro. Edgar Odón Cruz Acuña - Decano (e.) de la Facultad de Derecho y Ciencias Políticas
+Mag. Rauf Saud Neme Sánchez - Decano (e.) de la Facultad de Estudios Generales
+Mag. Luis Napoleón Quiroz Avilés - Director (e.) de la Escuela de Postgrado
+Mtra. Carla María Bio Gaidolfi - Secretaria General
+
+Filiales:
+Ing. Mario Antonio Gutiérrez Castillo - Director de la Sede Lima
+Mtra. Jovita Vasquez Balarezo - Directora de la Filial Atalaya
+Lic. Marisella del Rosario Palomino Arroyo - Directora de la Filial Huaura: Santa María
+Mtro. Jorge Arturo Ramos Silva - Director de la Filial Tarma
+Mtra. Brigida Carolina Gutiérrez Zuñiga - Directora de la Filial Rioja: Nueva Cajamarca
+Mtro. Luis Alberto Chiroque Farfán - Director de la Filial Morropón: Chulucanas
+
+
+
+==================================================
+MISION Y VISION UCSS
+==================================================
+
+[MISION Y VISION INSTITUCIONAL]
+Resolucion de Aprobacion: N° 064-2021-UCSS-AG/GC (13 de octubre de 2021)
+Horizonte de la Vision: Año 2028
+
+[MISION]
+Ser una comunidad universitaria católica, libre y autónoma, que contribuya a la construcción del bien común en una sociedad intercultural, inclusiva, equitativa y sostenible. Su compromiso es formar profesionales excelentes, competentes, capaces de asumir riesgos con responsabilidad y liderazgo, preparados para promover y aplicar el conocimiento científico y tecnológico en el ámbito laboral con un sentido humanista y cristiano que fomenta el respeto y la dignidad de la persona.
+
+[VISION]
+Al 2028, ser una universidad reconocida por su excelencia académica y humanista, basada en la mejor innovación científica y didáctica, la formación continua, la responsabilidad social y la investigación aplicada, realizada a nivel local, nacional e internacional; siendo aliado estratégico de actores públicos y privados promoviendo conocimientos originales para el desarrollo sostenible e integral del territorio.
+
+==================================================
+RESOLUCION N° 179-2025-UCSS-CU/R
+TEMARIO DE EXAMEN DE ADMISIÓN 2026-I Y 2026-II
+==================================================
+
+[DATOS DE LA RESOLUCION]
+Resolucion: N° 179-2025-UCSS-CU/R
+Fecha: 18 de agosto de 2025
+Emisor: Rector de la Universidad Catolica Sedes Sapientiae
+Objeto: Aprobacion del Temario del Examen de Admision de Pregrado para los semestres academicos 2026-I y 2026-II.
+
+[ESTRUCTURA Y PESOS POR TIPO DE EXAMEN]
+Tipo 01 (FCEC - FCEH - FCAA):
+- Razonamiento matematico: 50%
+- Razonamiento verbal: 50%
+
+Tipo 02 (FCS - Ciencias de la Salud):
+- Razonamiento verbal: 50%
+- Razonamiento matematico: 20%
+- Quimica: 10%
+- Fisica: 10%
+- Biologia: 10%
+
+Tipo 03 (FI - Ingenieria):
+- Razonamiento matematico: 30%
+- Razonamiento verbal: 30%
+- Quimica: 10%
+- Fisica: 10%
+- Aritmetica: 5%
+- Algebra: 5%
+- Trigonometria: 5%
+- Geometria: 5%
+
+Tipo 04 (FDCP - Derecho y Ciencias Politicas):
+- Razonamiento verbal: 40%
+- Razonamiento matematico: 30%
+- Historia: 15%
+- Cultura general: 15%
+
+[TEMAS GENERALES POR MATERIA]
+
+[RAZONAMIENTO VERBAL]
+- Vocabulario: Sinonimos, antonimos, analogias, terminos excluidos.
+- Comprension y relacion de ideas: Oraciones incompletas, plan de redaccion, ilativos, oraciones eliminadas.
+- Comprension de textos: Lecturas, tipologia y jerarquia textual, fundamentos de comprension lectora.
+- Gramatica y Ortografia: Acentuacion, morfologia (coherencia, cohesion, conectores), estructuras sintacticas y raices griegas/latinas.
+
+[RAZONAMIENTO MATEMATICO]
+- Numeros reales, fracciones, decimales, aplicaciones (mezclas, parte-todo).
+- Porcentajes, descuentos, aumentos y variaciones porcentuales.
+- Ecuaciones (1er/2do grado, sistemas), desigualdades e inecuaciones.
+- Logaritmos, funcion lineal, sistema coordenado rectangular.
+- Geometria plana: Areas de regiones sombreadas y poligonos.
+- Estadistica y Psicotecnico: Tablas/graficos, sucesiones, analogias numericas, cortes/estacas, engranajes, conteo de cubos.
+
+[MATEMATICAS ESPECIFICAS (INGENIERIA)]
+- Aritmetica: Conjuntos, 4 operaciones, divisibilidad, razones/proporciones, regla de tres, porcentajes, tasa de interes.
+- Algebra: Exponentes, racionalizacion, polinomios, productos notables, division, factorizacion, ecuaciones, inecuaciones, funciones, logaritmos.
+- Trigonometria: Unidades angulares, razones trigonometricas, angulos de elevacion/depresion, identidades, funciones y ecuaciones trigonometricas.
+- Geometria: Puntos, rectas, angulos, triangulos, poligonos, cuadrilateros, circunferencia, areas/perimetros, superficies y volumen de solidos.
+
+[CIENCIAS CIENCIAS DE LA SALUD E INGENIERIA]
+- Quimica: Tabla periodica, reacciones, enlace quimico (Lewis, octeto), gases, soluciones, equilibrio quimico/acido-base, materia, atomos, nomenclatura.
+- Fisica: Magnitudes/Sistema Internacional, cinematica, dinamica, trabajo/energia, estatica (equilibrio), termodinamica.
+- Biologia (Solo FCS): Biomoleculas, celula, bioelementos, transporte de membrana, funciones de biomoleculas.
+
+[HISTORIA Y CULTURA GENERAL (DERECHO Y CIENCIAS POLITICAS)]
+- Historia: Origen del hombre, poblamiento de America, culturas antiguas, civilizaciones precolombinas, Virreinato, republica, fuentes de riqueza, historia peruana reciente.
+- Cultura General: Formas de gobierno, division de poderes, Revolucion Francesa, I y II Guerra Mundial, organismos e instrumentos internacionales de DDHH, sistema normativo peruano, siglas.
+
+==================================================
+RESOLUCION N° 178-2024-UCSS-CU/R
+REGLAMENTO GENERAL DE ADMISION (VERSION 06)
+==================================================
+
+[DATOS DE LA RESOLUCION]
+Resolucion: N° 178-2024-UCSS-CU/R
+Fecha: 16 de julio de 2024
+Emisor: Rector Gian Battista Fausto Bolis / Consejo Universitario UCSS
+Objeto: Modificacion y aprobacion de la Versión 06 del Reglamento General de Admisión (Pregrado y Postgrado).
+
+[DISPOSICIONES GENERALES Y PARTICIPANTES]
+Alcance: Aplica para Pregrado y Postgrado (presencial, semipresencial y a distancia).
+Definiciones Principales:
+- Postulante: Persona inscrita para cubrir vacante. (Separados por disciplina no pueden postular).
+- Ingresante: Postulante que aprueba los requisitos de su modalidad.
+- Estudiante: Ingresante matriculado o con reserva de vacante ejercida.
+Documentacion Falsa: Causa rechazo automatico del proceso.
+
+[ORGANIZACION DEL PROCESO]
+Organos Responsables:
+- Oficina Central de Admision: Propone cronogramas, gestiona vacantes, prospectos, carpetas y coordinacion general.
+- Comision de Admision: Nombrada por Consejo Universitario; elabora instrumentos de evaluacion y supervisa la transparencia.
+
+[MODALIDADES DE ADMISION - PREGRADO]
+1. Examen de Admision General: Evaluacion de conocimientos por estricto orden de merito.
+2. Comunidades Nativas (Educacion Basica Bilingue Intercultural): Examen de Lengua Originaria (Ashaninka, Awajun, Shipibo-Konibo, etc.) + Entrevista personal en lengua originaria + Examen general de conocimientos.
+3. Exonerados / Modalidades Especiales:
+   - Graduados o Titulados
+   - Traslados Externos (Universidades e Institutos, min. 4 semestres o 72 creditos)
+   - Egresados de Institutos Superiores
+   - Primeros Puestos (1° y 2° puesto de secundaria)
+   - Tercio Superior y Colegio Mayor Secundario Presidente del Peru
+   - Via Escolar (5to de secundaria con prueba aprobatoria)
+   - Deportistas Calificados (IPD)
+   - Centro Pre Universitario UCSS
+   - Traslados Internos y Alumnos Especiales (Intercambios)
+   - Admision Especial (Egresados/Bachilleres de universidades denegadas)
+
+[MODALIDADES DE ADMISION - POSTGRADO]
+1. Regular: Entrevista personal y evaluacion documentaria.
+2. Graduados UCSS.
+3. Traslados Externos (Entrevista, evaluacion documentaria y convalidacion).
+4. Traslados Internos.
+
+[VACANTES Y RESULTADOS]
+- Asignacion: Aprobadas por Consejo Universitario a propuesta de Facultades. Cubiertas por estricto orden de merito.
+- Resultados: Inapelables, publicados como INGRESÓ o NO INGRESÓ.
+- Segunda Opción: No ingresantes pueden solicitar traslado a otra carrera si existen plazas.
+- Devolucion de Documentos: No ingresantes tienen 30 dias calendario post-resultados para retirar documentos; luego son eliminados sin reclamo.
+
+[SANCIONES Y FALTAS]
+- Anulacion de examen por fraude o incumplimiento de instrucciones.
+- Denuncia Fiscal e Inhabilitacion por suplantación, documentos falsos, perturbacion del proceso o uso de aparatos electronicos.
+- Miembros UCSS implicados en fraudes seran separados definitivamente y reportados a otras universidades.
+
+==================================================
+RESOLUCION N° 029-2018-UCSS-AG/GC
+REGLAMENTO DE JEFES DE PRACTICA
+==================================================
+
+[DATOS DE LA RESOLUCION]
+Resolucion: N° 029-2018-UCSS-AG/GC
+Fecha: 26 de marzo de 2018
+Emisor: Monseñor Lino Mario Panizza Richero, Gran Canciller / Asamblea General UCSS
+Objeto: Aprobacion del Reglamento de Jefes de Practica.
+
+[DISPOSICIONES GENERALES Y NATURALEZA]
+- Base Legal: Ley Universitaria N° 30220, Estatuto UCSS, Reglamento General UCSS, D.S. N° 003-97-TR (D.Leg. 728).
+- Naturaleza: Apoyo a la docencia y actividad preliminar a la carrera docente. NO ejercen carrera docente.
+
+[REQUISITOS DE INGRESO]
+- Contar con titulo profesional.
+- Aprobar evaluacion de la Facultad (evaluacion de hoja de vida y entrevista personal; clase magistral opcional a discrecion).
+
+[FUNCIONES DEL JEFE DE PRACTICA]
+- Elaborar material didactico y proponer/mejorar diseño de sesiones junto al docente.
+- Investigar temas, noticias, videos y lecturas para el curso.
+- Apoyar en revision de evaluacion continua y apoyo en correccion de parciales.
+- Orientar a estudiantes en trabajos de equipo (en clase y excepcionalmente fuera de ella via correo, aula virtual o presencial).
+- Ejecutar las horas practicas del curso en estricta coordinacion con el docente.
+- Sugerir preguntas o casos para evaluaciones.
+- Reemplazar al docente en caso de ausencia por salud o fuerza mayor (previa coordinacion y aviso a la carrera y secretaria del Decanato).
+
+[DEBERES]
+- Aceptar orientacion y observaciones del docente con sencillez.
+- Puntualidad en el ingreso a clases y firma del parte de asistencia.
+- Participar en talleres de capacitacion semestrales.
+- Vestimenta formal de preferencia (casual permitida en estaciones de alta temperatura, manteniendo buena presentacion).
+- Mantener relacion cordial, profesional y de respeto con estudiantes y docentes dentro y fuera del aula.
+
+[DERECHOS]
+- Asignacion economica por horas de labor.
+- Certificado de participacion por semestre.
+- Acceso a prestamos de libros en Biblioteca.
+- Participar en reuniones fijadas por la Facultad.
+- Uso de instalaciones de la UCSS y sala de docentes para coordinaciones.
+
+==================================================
+RESOLUCION N° 032-2018-UCSS-AG/GC
+REGLAMENTO DE AYUDANTES DE CATEDRA
+==================================================
+
+[DATOS DE LA RESOLUCION]
+Resolucion: N° 032-2018-UCSS-AG/GC
+Fecha: 26 de marzo de 2018
+Emisor: Monseñor Lino Mario Panizza Richero, Gran Canciller / Asamblea General UCSS
+Objeto: Aprobacion del Reglamento de Ayudantes de Catedra (aplicable tambien a Ayudantes de Laboratorio).
+
+[DISPOSICIONES GENERALES Y NATURALEZA]
+- Base Legal: Ley Universitaria N° 30220, Estatuto UCSS, Reglamento General UCSS, Ley General de Educacion N° 28044, D.S. N° 003-97-TR (D.Leg. 728).
+- Naturaleza: Apoyo a la docencia y actividad preliminar a la carrera docente. NO ejercen carrera docente.
+
+[REQUISITOS DE INGRESO]
+- Estudiante de los dos (02) ultimos años de estudios profesionales y pertenecer al tercio superior. Excepcion: En zonas remotas/pueblos originarios con poca oferta profesional, se consideran bachilleres o egresados de Institutos de Formacion Superior.
+- Aprobar evaluacion de la Facultad (evaluacion de hoja de vida y entrevista personal; clase magistral opcional a discrecion).
+
+[FUNCIONES DEL AYUDANTE DE CATEDRA]
+- Asistir en elaboracion de material didactico, investigar temas/noticias/videos y proponer mejoras en el diseño de clases junto al docente.
+- Controlar la asistencia al inicio de clase y recoger trabajos encargados.
+- Apoyar en el cuidado de examenes y orientar trabajos en equipo en horario de clase bajo supervision docente.
+- Sugerir preguntas o casos para evaluaciones.
+- Excepcionalmente, aplicar practica dirigida o trabajo si el docente ausenta por salud o fuerza mayor (previa coordinacion y aviso a la carrera y secretaria del Decanato).
+
+[DEBERES]
+- Aceptar orientacion y observaciones del docente con sencillez.
+- Puntualidad en el ingreso a clases (de preferencia llegar 10 minutos antes) y firma del parte de asistencia.
+- Participar en talleres de capacitacion semestrales.
+- Vestimenta formal de preferencia (casual permitida en estaciones de alta temperatura, manteniendo buena presentacion).
+- Mantener relacion cordial, profesional y de respeto con estudiantes y docentes dentro y fuera del aula.
+
+[DERECHOS]
+- Certificado de participacion por semestre.
+- Acceso a prestamos de libros en Biblioteca.
+- Participar en reuniones fijadas por la Facultad.
+- Uso de instalaciones de la UCSS y sala de docentes para coordinaciones.
+
+==================================================
+RESOLUCION N° 023-2017-UCSS-AG/GC
+REGLAMENTO DE DISCIPLINA DE ESTUDIANTES
+==================================================
+
+[DATOS DE LA RESOLUCION]
+Resolución: N° 023-2017-UCSS-AG/GC (Ratifica la Res. N° 010-2013-UCSS-AG/GC)
+Fecha: 03 de marzo de 2017
+Emisor: Monseñor Lino Mario Panizza Richero, Gran Canciller / Asamblea General UCSS
+Estructura: III Capítulos, 24 artículos y Cuadro de Sanciones.
+
+[TIPOS DE FALTAS]
+- Probidad Académica: Copiar en pruebas/tesis/asignaciones; alterar/sustraer/destruir trabajos o registros de notas; plagio total/parcial; falsear citas o presentar datos falsos.
+- Ambiente Académico: Falsificar/dañar documentos; dañar la imagen/patrimonio de la UCSS; destruir/sustraer/usar indebidamente instalaciones, equipos o correo; alterar sistemas informáticos; perturbar actividades institucionales; proselitismo político.
+- Derechos de la Persona y Ley: Agresión física, psicológica o moral; atentar contra el honor o la ley/Constitución; condena por delito doloso; pertenecer a agrupaciones ilegales.
+- Conducta Moral: Comportamientos inmorales; faltar a la verdad; posesión, consumo o venta de drogas en el campus (expulsión); hostigamiento sexual; contravenir la Misión/Visión UCSS o principios de la Iglesia Católica.
+
+[CLASIFICACIÓN DE SANCIÓNES]
+- Amonestación Escrita (Código 51): Llamada de atención severa con prueba de conducta. En faltas de probidad, puede incluir calificación de cero (00) en la evaluación objeto de infracción.
+- Separación Temporal (Código 52): Suspensión de derechos por un período específico. La acumulación de 2 amonestaciones escritas genera separación temporal.
+- Separación Definitiva (Código 53): Expulsión permanente a partir del semestre de la falta. La acumulación de 2 separaciones temporales o incurrir en faltas graves (ej. drogas en el campus) genera separación definitiva.
+
+[PROCEDIMIENTO Y AUTORIDADES]
+- Primera Instancia: Decano de la Facultad o Directora de la Escuela de Postgrado. Puede sancionar directamente o nombrar una Comisión de Investigación (3 docentes).
+- Segunda Instancia: Vicerrector Académico (pronunciamiento inapelable). Puede ratificar, modificar o nombrar una nueva Comisión de Investigación (3 docentes distintos).
+- Derecho de Defensa y Apelación: El estudiante puede presentar su declaración y recursos escritos. La apelación ante la 1ra instancia debe presentarse en un plazo máximo de 4 días útiles post-notificación.
+- Notificación y Registro: Notificación por escrito (con copia al apoderado si es menor de edad). Toda sanción se inscribe en el registro del alumno gestionado por la Dirección de Atención Integral al Alumno.
+
+==================================================
+INFORMACIÓN DE TRÁMITES Y FORMAS DE PAGO (UCSS)
+==================================================
+
+[TRÁMITES Y COSTOS - GRADOS Y TÍTULOS]
+Correo de solicitud: gradosytitulos@ucss.edu.pe
+
+Trámite                                                         | Costo
+----------------------------------------------------------------|-----------
+Duplicado de Grado Bachiller / Título Profesional por PERDIDA   | S/. 1,000.00
+Duplicado de Grado Bachiller / Título Profesional por DETERIORO | S/. 1,000.00
+Nuevo diploma por RECTIFICACIÓN (judicial/notarial)             | S/. 1,000.00
+Constancia de trámite (Grado o Título)                          | S/. 25.00
+Legalización de copia (Grado de Bachiller)                      | S/. 20.00
+Legalización de copia (Título Profesional)                      | S/. 20.00
+Legalización de copia (Grado de Maestro)                        | S/. 20.00
+Legalizaciones varias (Resoluciones)                            | S/. 10.00
+
+[CANALES Y MÉTODOS DE PAGO]
+
+1. Pregrado Presencial
+- Bancos y Agentes: Buscar "Universidad Católica Sedes Sapientiae" -> Opción "Pensiones" -> Indicar código de estudiante.
+- Banca por Internet / Móvil: Buscar empresa "SAPIENTIAE" -> "Pensiones" -> Código de estudiante.
+- Yape: Opción "Yapear servicios" -> Buscar "Universidad Católica Sedes Sapientiae" -> Indicar código de alumno.
+*Nota BCP: En el BCP los pagos solo se realizan mediante agentes y aplicativos.
+
+2. Postgrado Presencial y Semipresencial
+- Banco, Agente y Aplicativo: Pagar servicios -> Buscar "Ucss Erp" -> Ingresar código de estudiante -> Seleccionar recibo.
+
+3. Pregrado UCSS Online
+- Banco, Agente y Aplicativo: Pagar servicios -> Buscar "Pensiones Ucss Online" -> Ingresar código -> Seleccionar recibo.
+- Pasarela de Pagos: Plataforma SIU / Pasarella de pago (Flywire).
+
+4. Postgrado UCSS Online
+- Pasarela de Pagos: Plataforma SIU / Pasarella de pago (Flywire).
+
+[TIEMPOS DE ACTUALIZACIÓN DE CUENTA CORRIENTE]
+- Pagos de Lunes a Viernes (hasta las 8:00 PM): Se actualizan en un plazo de 24 horas.
+- Pagos después de las 8:00 PM, Sábados, Domingos y Feriados: Se actualizan en un plazo de 48 a 72 horas.
+- Requisito clave: Todo abono debe realizarse a cuentas a nombre de la Universidad.
+
+[PAGO POR PASARELA FLYWIRE (SOPORTE INTERNACIONAL/DIGITAL)]
+1. Selección de Pago:
+   - Transferencia interbancaria (descargar instrucciones únicas por transacción).
+   - Tarjeta de crédito/débito (requiere verificación de límite y autorización de compras en línea).
+   - PagoEfectivo (genera código CIP para pagar en bancos, agentes o bodegas).
+2. Datos Requeridos:
+   - Pagador: Nombre, DNI, dirección, ciudad, país y código postal.
+   - Estudiante: Datos precargados según registro institucional.
+3. Seguimiento y Soporte:
+   - Rastreo 24/7 mediante app, SMS o en flywire.com (utilizando el código identificador ÚNICO).
+   - Soporte: support@flywire.com o Live Chat.
+
+==================================================
+INFORMATIVO TRÁMITES OAA 2026 - II
+==================================================
+
+[CONSIDERACIONES ECONÓMICAS DEL SEMESTRE]
+
+1. Descuento por Pago Puntual
+- Porcentaje: 10% de descuento para estudiantes al día en sus cuotas del semestre actual.
+- Vigencia: Válido hasta 10 días después del vencimiento de la cuota vigente.
+
+2. Mora por Extemporaneidad
+- Tasa: Se aplica una mora diaria equivalente a la tasa de interés interbancario establecida por el Banco Central de Reserva del Perú (BCRP).
+
+3. Recargos por Créditos (Repitencia y Electivos)
+- Repitencia: S/. 5.00 adicionales por cada crédito repetido por cuota.
+- Curso Electivo: S/. 1.00 adicional por cada crédito electivo por cuota.
+
+4. Costo por Material Didáctico
+- Monto: S/. 5.00 por cada asignatura matriculada (facturado/incluido en la Cuota 3).
+- Alcance: Garantiza la difusión y acceso a recursos digitales en el aula digital (biblioteca virtual, bases de datos académicas, enlaces de investigación, grabaciones de clases, diapositivas, lecturas complementarias, etc.).
+
+==================================================
+INFORMATIVO TRÁMITES OAA 2026 - II
+OFICINA DE ASUNTOS ACADÉMICOS (UCSS)
+==================================================
+
+[TRÁMITES ACADÉMICOS Y REQUISITOS]
+
+1. Matrícula y Actualización
+- Matrícula: Se realiza vía Intranet Pregrado previa actualización de datos y aceptación de términos y condiciones.
+- Actualización de Matrícula: Para estudiantes que dejaron de estudiar 1 o más semestres sin reserva. La condición de estudiante se pierde si se dejan de estudiar más de 8 años lectivos (16 semestres) consecutivos (salvo aprobación del Consejo de Facultad).
+- Rectificación de Matrícula: La disminución de créditos tiene costo de trámite. El incremento de créditos no tiene costo y se realiza en la Intranet.
+
+2. Reservas, Retiros y Renuncias
+- Reserva de Vacante: Para ingresantes que no puedan cursar el primer semestre. Válida por 2 semestres consecutivos.
+- Reserva de Matrícula: Para estudiantes regulares no matriculados. Válida por 2 semestres consecutivos.
+- Retiro de Asignatura / Semestre: 
+  * Apartamiento voluntario con fines puramente académicos (plazo máximo: término de la semana 10).
+  * No exonera de las obligaciones económicas de los cursos.
+  * De no tramitarlo, los cursos figurarán como desaprobados en el historial.
+- Renuncia a la Vacante: Para ingresantes no matriculados por causa de fuerza mayor (no retroactivo).
+- Renuncia a la Universidad: Para estudiantes regulares. Reclama entrevista con el Decano y carta firmada con legalización notarial. Si está matriculado, debe cancelar todas las cuotas contraídas a la fecha.
+
+3. Documentos, Certificados y Constancias
+- Historial de Notas: Documento simple emitido con sello físico de la OAA para trámites externos.
+- Constancia de Primera Matrícula: Emisión digital y legalizada por Secretaría General.
+- Constancia ECTS / Certificado de Estudios: Emisión digital legalizada/firmada. Asignaturas convalidadas figuran al terminar la carrera. Sujetos a la Ley 29947 (pueden retenerse por períodos no pagados).
+- Constancia de Estudios / Orden de Puesto / Orden de Mérito: Emitidos, firmados y sellados por la OAA basados en el promedio ponderado histórico.
+- Constancia de Egresado: Se tramita vía Intranet tras aprobar todos los créditos obligatorios y electivos.
+- Duplicado de Carné Universitario: Tramitado según plazos de SUNEDU por pérdida/robo. Trámite no anulable y entrega personal/presencial.
+
+4. Evaluaciones Especiales y Traslados
+- Examen Rezagado Final: Permitido únicamente para el examen final por causas de fuerza mayor. Evalúa todo el contenido del curso y la nota máxima es quince (15).
+- Cambio de Programa de Estudios: Debe solicitarse a la facultad de destino sin estar matriculado y únicamente durante el proceso de matrícula en curso.
+
+==================================================
+COSTOS DE LEGALIZACIONES (UCSS)
+(Vigente a partir del 01 de julio de 2017)
+==================================================
+
+Nº  | Código | Descripción                                          | Importe S/.
+----|--------|------------------------------------------------------|------------
+1   | 01921  | Legalización de sílabos por unidad                   | 10.00
+2   | 01922  | Legalización de sílabos para el extranjero por unidad | 20.00
+3   | 01923  | Legalización de plan de estudios de pregrado         | 150.00
+4   | 01924  | Legalización de plan de estudios de posgrado         | 200.00
+5   | 01925  | Legalización de copia del Grado de Bachiller         | 20.00
+6   | 01926  | Legalización de copia del Título Profesional         | 20.00
+7   | 01927  | Legalización de copia del Grado de Maestro           | 20.00
+8   | 01928  | Legalización de original de Grado de Bachiller       | 40.00
+9   | 01929  | Legalización de original de Título Profesional       | 40.00
+10  | 01930  | Legalización de original de Grado de Maestro         | 40.00
+11  | 01931  | Legalización de original de certificado de estudios  | 50.00
+12  | 01932  | Legalización de copia de certificado de estudios     | 30.00
+13  | 01933  | Legalización de Récord Académico original            | 30.00
+14  | 01934  | Legalización de copia de Récord Académico             | 20.00
+15  | 01935  | Legalizaciones varias (por hoja)                     | 10.00
+
+==================================================
+RESOLUCIÓN N° 039-2019-UCSS-CU/R
+COSTOS Y TRÁMITES DE LA ESCUELA DE POSTGRADO
+==================================================
+
+[INFORMACIÓN GENERAL Y ENLACE DE TRÁMITES]
+- Formato Solicitud Trámite Académico/Económico/Administrativo: https://www.ucss.edu.pe/images/transparencia/solicitud-tramite-academico-economico-administrativo-ucss.pdf
+- Base Legal: Tarifario aprobado por Resolución N° 039-2019-UCSS-CU/R el 15 de febrero de 2019.
+
+[1. INSCRIPCIÓN A PROGRAMAS DE POSTGRADO]
+- Costo: S/. 100.00
+- Requisitos:
+  1. Copia simple de grado de bachiller (extranjeros: resolución SUNEDU).
+  2. Copia escaneada de DNI o pasaporte/CE.
+  3. Hoja de vida (no documentada).
+  4. Solicitud de admisión.
+  5. Comprobante de pago enviado a: informesepg2@ucss.edu.pe
+- Canales de Pago (BCP): Agentes (código empresa 05976), Banca por Internet (viabcp.com.pe) o Agencias BCP. Servicio: "UCSS PAGOS VARIOS" con DNI -> Concepto: "S/. 100.00 - Inscripción EPG-UCSS".
+
+[2. TARIFARIO DE MATRÍCULA Y CUOTAS POR MAESTRÍA]
+
+Unidad / Programa                                     | Matrícula | Cuota Comunidad | Cuota Corporativa | Cuota General
+------------------------------------------------------|-----------|-----------------|-------------------|--------------
+FCEC: MBA Internacional                               | S/. 500.00 | S/. 725.00      | S/. 835.00        | S/. 945.00
+FCEC: Maestría en Administración Pública              | S/. 500.00 | S/. 725.00      | S/. 835.00        | S/. 945.00
+FCEH: Literatura Infantil-Juvenil                     | S/. 250.00 | S/. 450.00      | S/. 500.00        | S/. 550.00
+FCEH: Psicopedagogía y Orientación Tutorial           | S/. 250.00 | S/. 450.00      | S/. 500.00        | S/. 550.00
+FCEH: Teoría y Práctica de Lectura y Escritura       | S/. 250.00 | S/. 450.00      | S/. 500.00        | S/. 550.00
+FCEH: Literatura y Cultura Brasileñas                 | S/. 250.00 | S/. 450.00      | S/. 500.00        | S/. 550.00
+FCEH: Persona, Familia y Sociedad (DSI)               | S/. 250.00 | S/. 450.00      | S/. 500.00        | S/. 550.00
+FCEH: Gestión e Innovación Educativa                  | S/. 250.00 | S/. 450.00      | S/. 500.00        | S/. 550.00
+FCEH: Filosofía y Religión                            | S/. 250.00 | S/. 450.00      | S/. 500.00        | S/. 550.00
+FCS: Bioética y Bioderecho                            | S/. 280.00 | S/. 350.00      | S/. 380.00        | S/. 450.00
+
+*Procedimiento de pago de pensiones/matrícula: Coordinar con Dirección Administrativa -> Pago en BBVA a la empresa "UCSS ERP" con código de alumno.
+
+[3. OTROS SERVICIOS ACADÉMICOS Y ADMINISTRATIVOS]
+
+Oficina             | Concepto                                      | Costo       | Detalle / Observaciones
+--------------------|-----------------------------------------------|-------------|-------------------------------------------
+Secretaría Acad.    | Duplicado de Constancia de Ingreso            | S/. 40.00   | -
+Unidad de Postgrado | Constancia de Estudios                         | S/. 40.00   | -
+Dir. Administrativa | Constancia de Libre Adeudo                    | S/. 40.00   | -
+Unidad de Postgrado | Constancia de Orden de Mérito                 | S/. 40.00   | -
+Secretaría Acad.    | Constancia de Egresado                         | S/. 300.00  | -
+Secretaría Acad.    | Certificado de Estudios                       | S/. 200.00  | S/. 50.00 por ciclo
+Unidad de Postgrado | Derecho de Revisión de Tesis                  | S/. 400.00  | -
+Unidad de Postgrado | Derecho de Asesoría de Tesis - Paquete 1       | S/. 500.00  | Duración 10 días (1 reunión de 90 min)
+Unidad de Postgrado | Derecho de Asesoría de Tesis - Paquete 2       | S/. 1,000.00| Duración 30 días (2 reuniones de 90 min)
+Unidad de Postgrado | Examen Final 1 (Subsanación)                 | S/. 400.00  | Evaluación escrita
+Unidad de Postgrado | Examen Final 2 (Subsanación)                 | S/. 800.00  | Trabajo de investigación
+Unidad de Postgrado | Reserva de Matrícula                         | S/. 250.00  | -
+Unidad de Postgrado | Retiro de Ciclo Académico                     | S/. 150.00  | -
+Unidad de Postgrado | Reincorporación                               | S/. 250.00  | -
+Unidad de Postgrado | Traslado Interno                              | S/. 300.00  | -
+Unidad de Postgrado | Sustentación de Tesis                         | S/. 800.00  | -
+Secretaría Acad.    | Trámite de Grado                              | S/. 3,000.00| Incluye certificado de estudios y libre adeudo
+Unidad de Postgrado | Duplicado de Sílabo                           | S/. 10.00   | -
+
+[4. CARNÉ UNIVERSITARIO POSTGRADO]
+- Emisión y trámite a cargo de la Dirección Administrativa de EPG.
+- Costo para el alumno: Gratuito (sin costo).
+
+==================================================
+MEJORAS Y NUEVOS REQUISITOS - BECAS Y AYUDAS ECONÓMICAS
+==================================================
+
+[NUEVAS DISPOSICIONES Y BENEFICIOS]
+
+1. Pago Único Administrativo
+- Costo: S/. 50.00 por trámite administrativo.
+- Beneficio: Se abonará por única vez; todas las renovaciones futuras de la beca serán totalmente gratuitas.
+
+2. Flexibilidad Académica
+- Criterio: Se reduce el Promedio Ponderado Semestral (PPS) exigido para la renovación del beneficio.
+- Detalle: El nuevo PPS requerido estará especificado en la Carta de Compromiso del estudiante.
+
+3. Recuperación Automática de Beca
+- Mecanismo: Si el estudiante pierde la beca (por desaprobar asignaturas o no alcanzar el PPS), podrá recuperarla por única vez.
+- Procedimiento: No requiere presentar solicitud. La reactivación es automática al alcanzar el promedio o aprobar los cursos pendientes.
+
+4. Carta de Compromiso (Firma Única)
+- Condición: Se firma una sola vez, quedando eliminada como requisito para renovaciones posteriores.
+- Requisito previo: El estudiante debe estar matriculado en un mínimo de 12 créditos.
+- Modalidades de firma:
+  * Presencial: Oficina de Becas y Ayudas Económicas (Local Gonzales Prada, Pabellón 4, 1.er piso).
+  * Virtual: Vía Zoom (Enlace: https://zoom.us/j/99796594066?pwd=d1l2S0xmTWdnNjFncnhHSEw3c0lLQT09#success).
+- Período de firma: Se le indicará oportunamente la fecha correspondientes para este trámite.
+- Horario de Atención: Lunes a viernes de 8:30 a.m. a 6:00 p.m. | Sábados de 8:30 a.m. a 1:00 p.m.
+- Aplicación del Beneficio: Aparecerá reflejado en la cuenta corriente 7 días hábiles después de la firma de la carta.
+
+[CANALES DE CONTACTO Y ATENCIÓN]
+- WhatsApp: 991 928 251 / 993 539 857
+- Correo Electrónico: ayudaseconomicas@ucss.edu.pe
+
+==================================================
+PROGRAMA DE BECAS Y AYUDAS ECONÓMICAS - UCSS
+(Consolidado Comunicado Informativo & Reglamento 2026)
+==================================================
+
+[MARCO LEGAL Y NORMATIVA VIGENTE]
+- Base Normativa: Aprobado por Resolución Nº 086-2023-UCSS-CU/R y modificado íntegramente por la RESOLUCIÓN N° 005-2026-UCSS-CU/R el 06 de febrero de 2026.
+- Alcance: Dirigido a estudiantes de pregrado matriculados en la UCSS.
+
+[1. PRINCIPALES MEJORAS Y BENEFICIOS OPERATIVOS]
+- Pago Único Administrativo: El trámite administrativo (S/. 50.00) se realiza por única vez. Las renovaciones posteriores son gratuitas.
+- Carta de Compromiso: Se firma una sola vez, quedando eliminada para trámites posteriores.
+  * Requisito: Estar matriculado en un mínimo de 12 créditos.
+  * Vía Presencial: Oficina de Becas y Ayudas Económicas (Local Gonzales Prada, Pabellón 4, 1.er piso).
+  * Vía Virtual: Zoom (https://zoom.us/j/99796594066?pwd=d1l2S0xmTWdnNjFncnhHSEw3c0lLQT09#success).
+  * Horario: Lunes a viernes (8:30 a.m. - 6:00 p.m.) y sábados (8:30 a.m. - 1:00 p.m.).
+  * Fechas: Se informarán formalmente por los canales de la universidad.
+  * Aplicación: El descuento se refleja en la cuenta corriente 7 días hábiles después de la firma.
+- Recuperación Automática: Si un estudiante pierde el beneficio por bajo rendimiento o desaprobar asignaturas, lo reactiva de forma automática (por única vez) al aprobar los cursos o alcanzar el promedio, sin presentar solicitudes.
+
+[2. TIPOS DE BECAS Y CONDICIONES DE RENOVACIÓN (TITULO II)]
+
+Beca             | Beneficio (Descuento)     | Requisitos y Condiciones de Renovación
+-----------------|---------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------
+Primeros Puestos | Media Beca (50%) en       | - 1ra mitad de la carrera: PPS >= 14.
+                 | créditos cubiertos       | - 2da mitad de la carrera: PPS >= 15.
+                 |                           | - Aprobar todos los cursos y estar matriculado en al menos 12 créditos.
+-----------------|---------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------
+Tercio Superior  | Un Cuarto de Beca (25%)   | - 1ra mitad de la carrera: PPS >= 13.
+                 | en créditos cubiertos   | - 2da mitad de la carrera: PPS >= 14.
+                 |                           | - Aprobar todos los cursos y estar matriculado en al menos 12 créditos.
+-----------------|---------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------
+Hermanos UCSS    | Un Cuarto de Beca (25%)   | - Tener familiar directo/hermano matriculado en el semestre.
+                 | en créditos cubiertos   | - Aprobar el 100% de los cursos matriculados.
+-----------------|---------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------
+Trabajador /     | Un Cuarto de Beca (25%)   | - Contrato laboral vigente del trabajador UCSS.
+Familiar Directo | en créditos cubiertos   | - Aprobar el 100% de los cursos matriculados.
+-----------------|---------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------
+Por Convenio     | Según el convenio        | - Acreditar vínculo laboral/institucional y mantener el PPS fijado en el convenio.
+                 | firmado                 | - Cumplir las condiciones generales.
+-----------------|---------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------
+Semestral por    | Media Beca (50%) en       | - Otorgada al mayor PPS del ciclo regular anterior.
+Programa / Sede  | créditos cubiertos       | - Estar matriculado en 16 créditos a más (no aplica traslados/graduados). Exclusivo para el siguiente semestre.
+-----------------|---------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------
+Por Orfandad     | Cobertura del 100% de    | - Menor de 24 años cuyo responsable económico fallece o queda inhabilitado.
+                 | matrícula, créditos,      | - Evaluado por Bienestar Universitario. A partir del 3er semestre se reevalúa el porcentaje.
+                 | bachiller y título    | - Se pierde al desaprobar más del 50% de créditos o por sanción disciplinaria.
+
+[3. AYUDAS ECONÓMICAS Y PRÉSTAMO DE HONOR (TÍTULO III)]
+- Recategorización: Cambio a una escala de pago menor.
+- Descuentos Directos: Tramitados ante la Oficina de Becas antes o durante la matrícula regular.
+- Préstamo de Honor:
+  * Prórroga parcial o total en el pago de créditos cubiertos.
+  * Requiere un garante moral mayor de edad.
+  * Renovación semestral con PPS >= 14 y aprobando todos los cursos.
+  * El reembolso inicia al egresar o al empezar a laborar.
+
+[4. REGLAS Y CONDICIONES GENERALES (TÍTULO IV)]
+- No acumulación: Las becas no son acumulables entre sí (salvo la recategorización).
+- Cobertura: Solo aplica a asignaturas cursadas por primera vez (no cubre cursos desaprobados, matrícula, carné ni Centro de Idiomas).
+- Exigencia Académica Incremental: A partir de la 2da mitad de la carrera, las exigencias de promedio académico suben en +1 punto respecto a la 1ra mitad.
+- Requisitos Generales de Mantenimiento:
+  * Estar matriculado en mínimo 12 créditos curriculares.
+  * Aprobar el 100% de asignaturas del ciclo anterior.
+  * No registrar deudas financieras con la institución.
+  * No registrar sanciones disciplinarias.
+- Programa de Apoyo a la Comunidad: Los beneficiarios podrán participar voluntariamente en actividades académicas, logísticas, comunicacionales u operacionales de la universidad.
+
+[CONTACTO Y ATENCIÓN]
+- WhatsApp: 991 928 251 / 993 539 857
+- Correo: ayudaseconomicas@ucss.edu.pe

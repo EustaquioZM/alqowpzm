@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Asistente de Horario UCSS</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Segoe UI', sans-serif; }
+    body { background-color: #f0f2f5; display: flex; justify-content: center; height: 100vh; padding: 20px; }
+    .chat-container { width: 100%; max-width: 650px; background: #ffffff; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.1); display: flex; flex-direction: column; overflow: hidden; }
+    .chat-header { background: #003366; color: white; padding: 15px; text-align: center; font-weight: bold; }
+    .chat-messages { flex: 1; padding: 15px; overflow-y: auto; display: flex; flex-direction: column; gap: 10px; }
+    .message { max-width: 80%; padding: 10px 14px; border-radius: 8px; font-size: 14px; white-space: pre-wrap; word-break: break-word; }
+    .message.user { background: #003366; color: white; align-self: flex-end; }
+    .message.bot { background: #e9ecef; color: #212529; align-self: flex-start; border-left: 4px solid #003366; }
+    .input-wrapper { position: relative; padding: 12px; background: #fff; border-top: 1px solid #ddd; }
+    .input-row { display: flex; gap: 8px; }
+    #mensajeInput { flex: 1; padding: 12px; border: 1px solid #ccc; border-radius: 6px; font-size: 14px; outline: none; }
+    #mensajeInput:focus { border-color: #003366; }
+    button { background: #003366; color: white; border: none; padding: 0 20px; border-radius: 6px; cursor: pointer; font-weight: bold; transition: background 0.2s; }
+    button:hover { background: #002244; }
+    .suggestions-list { position: absolute; bottom: 100%; left: 12px; right: 12px; background: white; border: 1px solid #ccc; border-radius: 6px 6px 0 0; box-shadow: 0 -4px 12px rgba(0,0,0,0.1); max-height: 180px; overflow-y: auto; display: none; z-index: 100; }
+    .suggestion-item { padding: 10px 12px; cursor: pointer; font-size: 13px; color: #333; border-bottom: 1px solid #f0f0f0; display: flex; align-items: center; gap: 8px; }
+    .suggestion-item:hover { background: #f0f4f8; color: #003366; }
+  </style>
+</head>
+<body>
+  <div class="chat-container">
+    <div class="chat-header">
+      <div>Bot Académico UCSS</div>
+      <div id="sessionBar" style="display: flex; justify-content: space-between; align-items: center; font-size: 12px; font-weight: normal; margin-top: 6px; padding: 4px 8px; background: rgba(255,255,255,0.15); border-radius: 4px;">
+        <span id="sessionStatus">Modo Invitado (Consultas generales)</span>
+        <a id="sessionAction" href="/" style="color: #ffdd57; text-decoration: none; font-weight: bold;">Iniciar Sesión</a>
+      </div>
+    </div>
+    <div class="chat-messages" id="chatMessages">
+      <div class="message bot">[SISTEMA] Hola. Selecciona una pregunta prehecha o escribe tu consulta sobre trámites, admisión, servicios o tu información académica.</div>
+    </div>
+    <div class="input-wrapper">
+      <div class="suggestions-list" id="suggestionsBox"></div>
+      <form id="chatForm" class="input-row">
+        <input type="text" id="mensajeInput" placeholder="Escribe tu pregunta..." autocomplete="off">
+        <button type="submit">Enviar</button>
+      </form>
+    </div>
+  </div>
+  <script src="/js/chat.js"></script>
+</body>
+</html>
