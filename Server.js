@@ -16,7 +16,7 @@ const {
   buscarRespuestaPreprogramada,
   obtenerListaPreguntas,
   normalizarTexto
-} = require('./server/preprogrammedData');
+} = require('./Server/preprogrammedData');
 
 const app = express();
 app.use(express.urlencoded({ extended: true }));
