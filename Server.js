@@ -4,6 +4,7 @@ const puppeteer = require('puppeteer');
 const path = require('path');
 const fs = require('fs');
 const OpenAI = require('openai');
+
 const {
   LOGIN_URL,
   HORARIO_URL,
@@ -11,7 +12,8 @@ const {
   HISTORIAL_URL = 'https://intranet.ucss.edu.pe/ucss-intranet/academico/historial.aspx',
   CTA_CTE_URL = 'https://intranet.ucss.edu.pe/ucss-intranet/academico/cta-cte.aspx',
   groqConfig
-} = require('./server/config');
+} = require('./Server/config');
+
 const {
   buscarRespuestaPreprogramada,
   obtenerListaPreguntas,
@@ -19,6 +21,7 @@ const {
 } = require('./Server/preprogrammedData');
 
 const app = express();
+
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 app.use(express.static(path.join(__dirname, 'public')));
