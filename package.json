@@ -1,4 +1,12 @@
 {
+  "name": "chatbotsimpleparalaucss",
+  "version": "1.0.0",
+  "description": "Chatbot backend con Express, Puppeteer y OpenAI",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
   "dependencies": {
     "axios": "^1.20.0",
     "cheerio": "^1.2.0",
