@@ -4,6 +4,8 @@ const puppeteer = require('puppeteer');
 const path = require('path');
 const fs = require('fs');
 const OpenAI = require('openai');
+const puppeteer = require('puppeteer-core');
+const chromium = require('@sparticuz/chromium');
 
 const {
   LOGIN_URL,
@@ -61,15 +63,16 @@ app.post('/api/login', async (req, res) => {
   let browser = null;
 
   try {
-      const browser = await puppeteer.launch({
-    headless: 'new',
-    args: [
-      '--no-sandbox',
-      '--disable-setuid-sandbox',
-      '--disable-dev-shm-usage',
-      '--single-process'
-    ]
-  });
+        const isProduction = process.env.NODE_ENV === 'production' || process.env.RENDER;
+
+    browser = await puppeteer.launch({
+      args: isProduction ? chromium.args : ['--no-sandbox', '--disable-setuid-sandbox'],
+      defaultViewport: chromium.defaultViewport,
+      executablePath: isProduction 
+        ? await chromium.executablePath() 
+        : 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe', // O la ruta local de tu PC si usas puppeteer-core
+      headless: isProduction ? chromium.headless : true
+    });
 
     const page = await browser.newPage();
     await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36');
