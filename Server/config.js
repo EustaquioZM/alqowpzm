@@ -3,7 +3,7 @@ const HORARIO_URL = 'https://intranet.ucss.edu.pe/ucss-intranet/academico/horari
 const NOTAS_URL = 'https://intranet.ucss.edu.pe/ucss-intranet/academico/notas.aspx';
 
 const groqConfig = {
-  apiKey: process.env.GROQ_API_KEY,
+  apiKey: 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,
   baseURL: 'https://api.groq.com/openai/v1'
 };
 
