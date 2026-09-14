@@ -4,7 +4,6 @@ const puppeteer = require('puppeteer');
 const path = require('path');
 const fs = require('fs');
 const OpenAI = require('openai');
-const puppeteer = require('puppeteer-core');
 const chromium = require('@sparticuz/chromium');
 
 const {
