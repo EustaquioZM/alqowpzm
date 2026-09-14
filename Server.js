@@ -1,6 +1,6 @@
 require('dotenv').config();
 const express = require('express');
-const puppeteer = require('puppeteer-core');
+const puppeteer = require('puppeteer');
 const path = require('path');
 const fs = require('fs');
 const OpenAI = require('openai');
@@ -62,25 +62,16 @@ app.post('/api/login', async (req, res) => {
   let browser = null;
 
   try {
-      const isProduction = process.env.NODE_ENV === 'production' || process.env.RENDER;
-
-    // Resolver executablePath de forma segura
-    let execPath;
-    if (isProduction) {
-      execPath = typeof chromium.executablePath === 'function' 
-        ? await chromium.executablePath() 
-        : await chromium.executablePath;
-    } else {
-      // Ruta local por defecto de Chrome en Windows (o cámbiala por la tuya si difiere)
-      execPath = 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'; 
-    }
-
     browser = await puppeteer.launch({
-      args: isProduction ? chromium.args : ['--no-sandbox', '--disable-setuid-sandbox'],
-      defaultViewport: chromium.defaultViewport,
-      executablePath: execPath,
-      headless: isProduction ? chromium.headless : true
-    });
+  headless: true,
+  args: [
+    '--no-sandbox',
+    '--disable-setuid-sandbox',
+    '--disable-dev-shm-usage',
+    '--single-process',
+    '--no-gpu'
+  ]
+});
 
     const page = await browser.newPage();
     await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36');
