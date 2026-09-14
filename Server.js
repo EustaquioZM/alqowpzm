@@ -1,6 +1,6 @@
 require('dotenv').config();
 const express = require('express');
-const puppeteer = require('puppeteer');
+const puppeteer = require('puppeteer-core');
 const path = require('path');
 const fs = require('fs');
 const OpenAI = require('openai');
@@ -62,14 +62,23 @@ app.post('/api/login', async (req, res) => {
   let browser = null;
 
   try {
-        const isProduction = process.env.NODE_ENV === 'production' || process.env.RENDER;
+      const isProduction = process.env.NODE_ENV === 'production' || process.env.RENDER;
+
+    // Resolver executablePath de forma segura
+    let execPath;
+    if (isProduction) {
+      execPath = typeof chromium.executablePath === 'function' 
+        ? await chromium.executablePath() 
+        : await chromium.executablePath;
+    } else {
+      // Ruta local por defecto de Chrome en Windows (o cámbiala por la tuya si difiere)
+      execPath = 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'; 
+    }
 
     browser = await puppeteer.launch({
       args: isProduction ? chromium.args : ['--no-sandbox', '--disable-setuid-sandbox'],
       defaultViewport: chromium.defaultViewport,
-      executablePath: isProduction 
-        ? await chromium.executablePath() 
-        : 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe', // O la ruta local de tu PC si usas puppeteer-core
+      executablePath: execPath,
       headless: isProduction ? chromium.headless : true
     });
 
